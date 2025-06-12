@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm c 👋</h1>
+<h1 align="center">Hi there, I'm Refrain 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Graph+Neural+Networks+%F0%9F%93%9A;Recommender+Systems+%F0%9F%93%8A;Image+Processing+%F0%9F%96%8C%EF%B8%8F;AI+is+changing+the+world...+so+am+I!" alt="Typing SVG" />
@@ -22,9 +22,9 @@
   - Graph contrastive learning
 
 - **Recommender Systems**:  
-  - Personalized ranking  
+  - Signed Social recomendation  
   - Graph-based recommendation  
-  - Cold-start and diversity modeling
+  
 
 - **Image Processing**:  
   - Image enhancement & restoration  
@@ -60,7 +60,7 @@
 
 ## 📫 Contact
 
-- Email: your.email@example.com  
+- Email: wangzifan217@nenu.edu.cn
 - Website: [yourpersonalwebsite.com](https://yourpersonalwebsite.com)  
 - Google Scholar: [Your Profile](#)  
 - Twitter/X: [@yourhandle](https://twitter.com/yourhandle)
